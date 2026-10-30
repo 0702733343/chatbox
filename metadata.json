@@ -1,0 +1,6 @@
+{
+  "name": "Cymbal Manufacturing AI Agent Studio",
+  "description": "Production-grade system prompt generator, interactive test harness, and LLM sandbox for Cymbal Manufacturing virtual container agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
